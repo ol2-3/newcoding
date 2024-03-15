@@ -1,5 +1,5 @@
 using System;
-
+// variant1
 namespace ConsoleApp8
 {
     using System;
